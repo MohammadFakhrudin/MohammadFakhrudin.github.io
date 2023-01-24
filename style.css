@@ -1,0 +1,42 @@
+
+#navbarku{
+    background-color: rgb(12, 62, 85) !important;
+}
+.navbar-toggler-icon{
+    color: rgb(252, 212, 33) !important;
+}
+
+a{
+    font-family: sans-serif;
+}
+
+#navbarku a{
+    color: rgb(229, 236, 221) !important ;
+
+}
+.Contact{
+    background-color: rgb(5, 92, 63);
+    border-radius: 10px;
+}
+
+footer.footer {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+.icofont-tasks-alt{
+    color: aqua;
+}
+.icofont-key-hole{
+    color: aquamarine;
+}
+.icofont-web{
+    color: rgb(24, 172, 172);
+}
+#hero{
+    background-color: aliceblue;
+    padding: 50px;
+}
+.testimonials{
+    padding: 30px;
+}
